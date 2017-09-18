@@ -79,7 +79,9 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+<div>
+                   Did you know  Laravel eats camels and stuff
+</div>
                 </div>
 
                 <div class="links">
